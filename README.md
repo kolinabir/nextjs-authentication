@@ -9,3 +9,6 @@
 
 ## For server visit
 [Server Repo Link](https://github.com/kolinabir/nextjs-auth-server)
+
+## Live Link
+[Live link](https://nextjs-authentication-self.vercel.app)
